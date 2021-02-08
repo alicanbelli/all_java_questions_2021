@@ -2,7 +2,7 @@ package _08_Switch;
 
 import java.util.Scanner;
 
-public class Mentoring_2_Switch {
+public class Mentoring_2_NotKarsiligi {
 
 	public static void main(String[] args) {
 		

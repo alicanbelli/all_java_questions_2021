@@ -2,7 +2,7 @@ package _08_Switch;
 
 import java.util.Scanner;
 
-public class Mentoring_7_Switch {
+public class Practise_3_WhichMonth {
 
 	public static void main(String[] args) {
 		

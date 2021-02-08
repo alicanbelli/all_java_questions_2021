@@ -2,7 +2,7 @@ package _08_Switch;
 
 import java.util.Scanner;
 
-public class Mentoring_3_Switch {
+public class Office_3_YesorNo {
 
 	public static void main(String[] args) {
 

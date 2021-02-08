@@ -5,58 +5,47 @@ import java.util.Scanner;
 public class Mentoring_4_Switch {
 
 	public static void main(String[] args) {
-
-		/* Soru 4:
-		 * Kullanicinin girmis oldugu  1 ile 12 arasindaki sayinin yilin hangi ayi oldugunu 
-		 * yazdiran Switch Case java kodunu yaziniz.
+		
+		/* Soru 8:
+		 * Write a program that will print a week day according to the day number. Use switch statement.					
+           Example					
+           Display message: "Enter number:"					
+	       5				
+           Display message: "Friday"					
 		 */
 		
 		Scanner scan = new Scanner(System.in);
-		System.out.println("1 ile 12 arasinda bir sayi giriniz");
+		System.out.println("Please input number between 1 to 7");
 		int i = scan.nextInt();
 		
 		switch(i) {
 		   case 1:
-			   System.out.println("Ocak");
+			   System.out.println("Monday");
 			   break;
 		   case 2:
-			   System.out.println("Subat");
+			   System.out.println("Tuesday");
 			   break;	   
 		   case 3:
-			   System.out.println("Mart");
+			   System.out.println("Wednesday");
 			   break;
 		   case 4:
-			   System.out.println("Nisan");
+			   System.out.println("Thursday");
 			   break;
 		   case 5:
-			   System.out.println("Mayis");
+			   System.out.println("Friday");
 			   break;
 		   case 6:
-			   System.out.println("Haziran");
+			   System.out.println("Saturday");
 			   break;
 		   case 7:
-			   System.out.println("Temmuz");
-			   break;
-		   case 8:
-			   System.out.println("Agustos");
-			   break;
-		   case 9:
-			   System.out.println("Eylul");
-			   break;
-		   case 10:
-			   System.out.println("Ekim");
-			   break;
-		   case 11:
-			   System.out.println("Kasim");
-			   break;
-		   case 12:
-			   System.out.println("Aralik");
+			   System.out.println("Sunday");
 			   break;
 		   default:
-			   System.out.println("Tanimlanamadi");
+			   System.out.println("Invalid entry, please try again!");
 		}
 		
 		scan.close();
+
 
 	}
 

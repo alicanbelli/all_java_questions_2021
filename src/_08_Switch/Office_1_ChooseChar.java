@@ -2,7 +2,7 @@ package _08_Switch;
 
 import java.util.Scanner;
 
-public class Mentoring_6_Switch {
+public class Office_1_ChooseChar {
 
 	public static void main(String[] args) {
 
