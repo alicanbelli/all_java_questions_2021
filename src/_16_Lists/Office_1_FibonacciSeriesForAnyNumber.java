@@ -3,7 +3,7 @@ package _16_Lists;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Office_2_FibonacciSeriesForAnyNumber {
+public class Office_1_FibonacciSeriesForAnyNumber {
     static boolean fibo;
     static int num1;
     static int num2;
