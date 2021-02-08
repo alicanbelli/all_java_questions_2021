@@ -2,7 +2,7 @@ package _08_Switch;
 
 import java.util.Scanner;
 
-public class Mentoring_5_Switch {
+public class Mentoring_3_KacGun {
 
 	public static void main(String[] args) {
 
