@@ -3,6 +3,9 @@ package _01_Variables;
 import java.util.Scanner;
 
 public class Office_1_AskiValue {
+
+
+
 	//ASCII acronym for American Standard Code for Information Interchange.
 
 		public static void main(String[] args) {

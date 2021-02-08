@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	/*
 	 Kullanicidan bir sayi iste.
 Kullaniciya sececegi sembollerin menusunu goster ve birisini secmesini iste.
-“ Toplama : 1 Cikarma : 2 Carpma : 3 Bolme :4”
+ Toplama : 1 Cikarma : 2 Carpma : 3 Bolme :4
 Kullanicidan bir sayi daha iste.
 Sonucu ekranda yazdir.
 ORNEK:
