@@ -1,6 +1,6 @@
 package _04_Operators;
 
-public class Office_1_Operators {
+public class Office_2_Operators {
 
 	public static void main(String[] args) {
 		
