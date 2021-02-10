@@ -2,7 +2,7 @@ package _10_StringMethods;
 
 import java.util.Scanner;
 
-public class Office_2_StringManipulations {
+public class Office_2_Change_hotmail_to_gmail {
 
     public static void main(String[] args) {
         // ask user to enter an e-mail address

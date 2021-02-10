@@ -1,6 +1,6 @@
 package _10_StringMethods;
 
-public class Mentoring_1_StringManipulations {
+public class Mentoring_1_InsertTheMiddle {
 
     public static void main(String[] args) {
         // create 2 words : name1 and name2
