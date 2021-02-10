@@ -1,6 +1,6 @@
 package _12_While_DoWhile;
 
-public class Practise_4_OCAType {
+public class Practise_04_OCAType {
     public static void main(String[] args) {
         //DEBUG
         int num = 10;
