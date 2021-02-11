@@ -1,6 +1,6 @@
 package _01_Variables;
 
-public class Practise_4_CharExample {
+public class Mentoring_6_CharExample {
 
     public static void main(String[] args) {
         /*
@@ -14,8 +14,7 @@ public class Practise_4_CharExample {
         System.out.print(ch1+" ");
         System.out.print(ch2+" ");
         System.out.println(ch3+" ");
-        System.out.println(ch2+" "+ch2);
-        System.out.println(ch3+"  "+ch3);
+
 
 
     }
