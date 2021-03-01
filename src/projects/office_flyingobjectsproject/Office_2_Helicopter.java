@@ -1,4 +1,4 @@
-package _24_Abstractions;
+package projects.office_flyingobjectsproject;
 
 public class Office_2_Helicopter implements Office_2_FlyingObjects {
     @Override

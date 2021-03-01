@@ -1,4 +1,4 @@
-package _24_Abstractions;
+package projects.practice_employeeproject;
 
 public abstract class Practise_2_Contractor extends Practise_2_Employee {
 

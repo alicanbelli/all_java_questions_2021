@@ -1,4 +1,4 @@
-package _24_Abstractions;
+package projects.office_flyingobjectsproject;
 
 public class Office_2_Airplane implements Office_2_FlyingObjects, Office_2_ObjectsWithEngine{
 

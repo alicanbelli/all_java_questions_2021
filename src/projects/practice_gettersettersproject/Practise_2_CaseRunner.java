@@ -1,6 +1,6 @@
-package _21_Encapsulations;
+package projects.practice_gettersettersproject;
 
-public class Practise_3_ThisKeyword_Devami {
+public class Practise_2_CaseRunner {
 
     public static void main(String[] args) {
         /*
@@ -15,7 +15,7 @@ public class Practise_3_ThisKeyword_Devami {
 
         //I must use setter method to assign values
 
-        Practise_2_ThisKeyword caseObject = new Practise_2_ThisKeyword();
+        Practise_2_Case caseObject = new Practise_2_Case();
         caseObject.setActualCase("Covid 19");
         caseObject.setTested(true);
         caseObject.setConclusion("Tested Negative");
@@ -26,7 +26,7 @@ public class Practise_3_ThisKeyword_Devami {
         } else System.out.println("15 days quarantine");
 
         // create patient object or use Patient class
-        Practise_4_ThisKeyword_Devami patient = new Practise_4_ThisKeyword_Devami();
+        Practise_4_Patient patient = new Practise_4_Patient();
 
         patient.setFirstName("John");
         patient.setLastName("Cash");

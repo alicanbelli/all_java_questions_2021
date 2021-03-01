@@ -1,4 +1,4 @@
-package _24_Abstractions;
+package projects.office_movieproject;
 
 public class Office_3_MovieRunner extends Office_3_Movie{
 //  2. Create another class: MovieRunner and do the followings

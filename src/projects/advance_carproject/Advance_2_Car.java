@@ -1,4 +1,4 @@
-package _24_Abstractions;
+package projects.advance_carproject;
 
 public abstract class Advance_2_Car {
 

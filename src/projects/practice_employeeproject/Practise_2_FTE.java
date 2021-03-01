@@ -1,4 +1,4 @@
-package _24_Abstractions;
+package projects.practice_employeeproject;
 
 public class Practise_2_FTE extends Practise_2_Employee{
 
