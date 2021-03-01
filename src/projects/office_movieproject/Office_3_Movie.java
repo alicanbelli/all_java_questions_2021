@@ -1,4 +1,4 @@
-package _24_Abstractions;
+package projects.office_movieproject;
 
 public class Office_3_Movie {
 

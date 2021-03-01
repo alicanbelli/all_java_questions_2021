@@ -1,6 +1,6 @@
-package _21_Encapsulations;
+package projects.practice_gettersettersproject;
 
-public class Practise_4_ThisKeyword_Devami {
+public class Practise_2_Patient {
 
     /*Create a class: Patient
      *Create 3 instance variables String firstName; String lastName;
@@ -14,7 +14,7 @@ public class Practise_4_ThisKeyword_Devami {
     //Encapsulation : data hiding, securing the data, protect the data
     private String firstName;
     private String lastName;
-    private Practise_2_ThisKeyword caseOptions;
+    private Practise_2_Case caseOptions;
 
     public String getFirstName() {
         return firstName;
@@ -32,11 +32,11 @@ public class Practise_4_ThisKeyword_Devami {
         this.lastName = lastName;
     }
 
-    public Practise_2_ThisKeyword getCaseOptions() {
+    public Practise_2_Case getCaseOptions() {
         return caseOptions;
     }
 
-    public void setCaseOptions(Practise_2_ThisKeyword caseOptions) {
+    public void setCaseOptions(Practise_2_Case caseOptions) {
         this.caseOptions = caseOptions;
     }
 

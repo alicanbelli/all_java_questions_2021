@@ -1,4 +1,4 @@
-package _24_Abstractions;
+package projects.mentoring_carproject;
 
 public class Mentoring_2_MyCar extends Mentoring_2_Vehicle{
     //Vehicle = Parent of MyCar class. MyCar is child class

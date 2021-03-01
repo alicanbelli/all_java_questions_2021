@@ -1,4 +1,4 @@
-package _24_Abstractions;
+package projects.practice_hospitalproject;
 
 public class Practise_3_Data {
 

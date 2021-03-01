@@ -1,4 +1,4 @@
-package _24_Abstractions;
+package projects.mentoring_carproject;
 
 public class Mentoring_2_Vehicle {
 //  1. Create a class: Vehicle

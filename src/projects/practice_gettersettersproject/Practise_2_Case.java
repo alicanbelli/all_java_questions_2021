@@ -1,6 +1,6 @@
-package _21_Encapsulations;
+package projects.practice_gettersettersproject;
 
-public class Practise_2_ThisKeyword {
+public class Practise_2_Case {
 
 
     // Create a class: Case
